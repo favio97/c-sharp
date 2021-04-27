@@ -245,7 +245,7 @@ public class DatosdePrueba
                 Console.WriteLine("     " + detalle.Producto.Descripcion + " | " + detalle.Cantidad + " | " + detalle.Precio);
             }
 
-            Console.WriteLine();
+            Console.ReadLine();
         } 
 
     }
